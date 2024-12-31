@@ -8,8 +8,8 @@ This project dives into an extensive analysis of Walmart's retail sales data to 
 - **Visualization and Reporting:** Created intuitive visualizations and reports to communicate insights effectively to stakeholders.  
 
 ### Technologies Used  
-- **Programming:** R for data analysis and predictive modeling.  
+- **Programming:** Python for data analysis and predictive modeling.  
 - **Techniques:** Statistical analysis, outlier detection, and missing value imputation.  
-- **Visualization:** ggplot2 and other R libraries for impactful data representation.  
+- **Visualization:** Matplotlib and Seaborn libraries for impactful data representation.  
 
-This repository serves as a comprehensive resource for applying data science to real-world retail challenges, offering insights into inventory optimization and sales forecasting.
+This repository serves as a comprehensive resource for applying Business analytics to real-world retail challenges, offering insights into inventory optimization and sales forecasting.
